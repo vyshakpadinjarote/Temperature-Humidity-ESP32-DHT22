@@ -26,5 +26,6 @@ This was developed at FORGE ACCELERATOR and it suites for cayyene
 *ESP32 Dev Module, Disabled, Default 4MB with spiffs(1.2MB APP/1.5MB SPIFFS)*
 *240MHz(WiFi/BT), QIO, 80MHz, 4MB, 115200 BaudRatio**************************
 ****************************************************************************/
+
 ```
 
